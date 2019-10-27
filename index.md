@@ -6,4 +6,10 @@ I am currently a senior at the University of Wisconsin - Madison.  I am planning
 
 # Projects
 
-[Jekyll](https://jekyllrb.com/)
+### [Code Breaker](https://github.com/briannab16/CodeBreaker)
+Language: Java
+Description: 
+
+### [Tool Comparison](https://github.com/briannab16/ToolComparison)
+Language: Java
+Description: 
